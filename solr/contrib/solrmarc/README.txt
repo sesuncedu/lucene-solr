@@ -1,3 +1,8 @@
+This is a direct clone of the SOLRMARC trunk. 
+It has NOT been cleaned, refactored, or integrated with the lucene-solr build tree.
+-----------------
+
+
 SolrMarc is a utility that reads in MaRC records from a file, extracts 
 information from various fields as specified in an indexing configuration 
 script, and adds that information to a specified Apache Solr index.
